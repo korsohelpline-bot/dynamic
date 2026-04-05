@@ -1,0 +1,8 @@
+// Example Razorpay integration placeholder
+var options = {
+  "key": "YOUR_KEY",
+  "amount": 50000 * 100,
+  "currency": "INR",
+  "name": "Dynamic Showroom",
+  "description": "Vehicle Booking",
+};
